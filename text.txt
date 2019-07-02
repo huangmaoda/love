@@ -7,9 +7,8 @@
 </head>
 <body>
 	I love you!
-	11111
-	asdasd
-	sdasd奥术大师大所大多撒大所多
-kk 
+	I love you too!!!!
+	
+>>>>>>> 271453acca65c7a34314ee508d5017d78f666732
 </body>
 </html>
